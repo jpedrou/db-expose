@@ -7,7 +7,9 @@ First of all, we need to setup the test environment. To do that, I used the Virt
 
 **metasploitable2**
 
-<img align="center" src="images/metasploit-vm.png"/>
+<p align="center">
+  <img src="images/metasploit-vm.png" width="600">
+</p>
 
 To keep things organized this is the folder structure I created to put my files:
 ```
