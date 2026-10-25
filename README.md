@@ -1,4 +1,7 @@
 # db-expose
+
+<img src="images/Neon Hacker Network Intrusion.png" />
+
 The objective of this project is to analyze and demonstrate how a misconfigured environment can be easily accessed by attempting to connect to the MySQL service on Metasploitable 2, a deliberately vulnerable environment designed for safe security testing and educational purposes.
 
 ## Setup
